@@ -10,9 +10,9 @@ Description
 <p align="center">
   <h3 align="center">隱私保護與醫學數據標準化競賽</h3>
   <p align="center">
-    一個"完美的"README範本去快速開始你的專案！
+    怎麼這麼複雜 好想睡覺
     <br />
-    <a href="https://github.com/your_github_name/your_repository"><strong>探索本專案的文檔 »</strong></a>
+    <a href="https://github.com/c110154213/ai_cup.git"><strong>探索本專案的文檔 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/your_github_name/your_repository">查看Demo</a>
@@ -46,8 +46,8 @@ Description
 
 ###### 開發前的配置要求
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
+1. colab沒被封就可以
+
 
 ###### **安裝步驟**
 
@@ -106,7 +106,8 @@ filetree
 
 ### 作者
 
-xxx@xxxx
+c110154213@nkust.edu.tw
+c110154221@nkust.edu.tw
 
  *您也可以在貢獻者名單中參看所有參與該專案的開發者。*
 
