@@ -59,25 +59,11 @@ git clone https://github.com/your_github_name/your_repository.git
 ```
 
 ### 檔目錄說明
-eg:
+
 
 ```
 filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
 ├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-├── /util/
 ├── 上手.md
 ├── 分割.ipynb
 ├── 合併.ipynb
