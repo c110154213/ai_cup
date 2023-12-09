@@ -40,7 +40,7 @@ Description
 
 ### 上手指南
 
-“/your_github_name/your_repository”
+“上手.md”
 
 
 
