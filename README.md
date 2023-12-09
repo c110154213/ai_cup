@@ -107,8 +107,10 @@ filetree
 
 ### 作者
 
--c110154213@nkust.edu.tw
--c110154221@nkust.edu.tw
+c110154213@nkust.edu.tw
+
+
+c110154221@nkust.edu.tw
 
  *您也可以在貢獻者名單中參看所有參與該專案的開發者。*
 
