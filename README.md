@@ -64,14 +64,15 @@ git clone https://github.com/your_github_name/your_repository.git
 ```
 filetree 
 ├── README.md
+├── /static/
+│      ├──結構.jpg
 ├── 上手.md
 ├── 分割.ipynb
 ├── 合併.ipynb
 ├── 後處理.ipynb
 ├── 模型訓練.ipynb
 ├── 解碼.ipynb
-├── 資料篩選.ipynb
-└── 結構.jpg
+└── 資料篩選.ipynb
 
 ```
 
