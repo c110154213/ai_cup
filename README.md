@@ -87,7 +87,8 @@ filetree
 
 ### 開發的架構 
 
-請閱讀……
+<p align="center">
+  <img src="結構.jpg" alt="Logo" width="80" height="80">
 
 ### 部署
 
