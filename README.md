@@ -51,8 +51,8 @@ Description
 
 ###### **安裝步驟**
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. 上傳分割/合併/篩選/模型訓練/解碼/後處理程式到Colab
+2. 上傳訓練集/驗證集
 
 ```sh
 git clone https://github.com/your_github_name/your_repository.git
