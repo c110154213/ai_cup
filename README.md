@@ -77,7 +77,15 @@ filetree
 ├── /static/
 ├── /templates/
 ├── useless.md
-└── /util/
+├── /util/
+├── 上手.md
+├── 分割.ipynb
+├── 合併.ipynb
+├── 後處理.ipynb
+├── 模型訓練.ipynb
+├── 解碼.ipynb
+├── 資料篩選.ipynb
+└── 結構.jpg
 
 ```
 
