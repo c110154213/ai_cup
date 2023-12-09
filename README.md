@@ -83,7 +83,7 @@ filetree
 ### 開發的架構 
 
 <p align="center">
-  <img src="結構.jpg" alt="Logo" width="900" height="1300">
+  <img src="static/結構.jpg" alt="Logo" width="900" height="1300">
 
 ### 部署
 
