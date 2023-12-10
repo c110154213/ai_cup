@@ -15,13 +15,6 @@ Description
     <a href="https://github.com/c110154213/ai_cup.git"><strong>探索本專案的文檔 »</strong></a>
     <br />
     <br />
-<!--     <a href="https://github.com/your_github_name/your_repository">查看Demo</a>
-    ·
-    <a href="https://github.com/your_github_name/your_repository/issues">報告Bug</a>
-    ·
-    <a href="https://github.com/your_github_name/your_repository/issues">提出新特性</a>
-  </p> -->
-
 </p>
 
 
@@ -92,6 +85,10 @@ filetree
 ### 版本控制
 
 該專案使用Git進行版本管理。您可以在repository參看當前可用版本。
+
+-**當前版本：** v1.0.0
+-**最後更新：** 2023 年 12 月 10 日
+
 
 ### 作者
 
