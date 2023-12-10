@@ -10,7 +10,7 @@ Description
 <p align="center">
   <h3 align="center">隱私保護與醫學數據標準化競賽</h3>
   <p align="center">
-    怎麼這麼複雜 好想睡覺
+    本專案為競賽處裡
     <br />
     <a href="https://github.com/c110154213/ai_cup.git"><strong>探索本專案的文檔 »</strong></a>
     <br />
@@ -81,10 +81,8 @@ filetree
 - [無](https://github.com/c110154213/ai_cup)
 
 
-
 ### 版本控制
 
-該專案使用Git進行版本管理。您可以在repository參看當前可用版本。
 
 -**當前版本：** v1.0.0  
 -**最後更新：** 2023 年 12 月 10 日  
@@ -101,7 +99,7 @@ c110154221@nkust.edu.tw
 
 ### 版權說明
 
-該項目簽署了MIT 授權許可，詳情請參閱 [LICENSE.txt](https://github.com/your_github_name/your_repository/blob/master/LICENSE.txt)
+無
 
 
 
