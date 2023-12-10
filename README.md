@@ -43,23 +43,20 @@ Description
 請參考[上手指南](上手.md)
 
 
-
 ###### 開發前的配置要求
 
 1. colab沒被封就可以
 
-
 ###### **安裝步驟**
 
-1. 上傳分割/合併/篩選/模型訓練/解碼/後處理程式到Colab
-2. 上傳訓練集/驗證集
-
+1. 上傳分割/合併/篩選/模型訓練/解碼/後處理程式到Colab  
+2. 上傳訓練集/驗證集  
+colab
 ```sh
-git clone https://github.com/your_github_name/your_repository.git
+https://colab.research.google.com
 ```
 
 ### 檔目錄說明
-
 
 ```
 filetree 
@@ -67,17 +64,14 @@ filetree
 ├── /static/
 │      ├──結構.jpg
 ├── 上手.md
+├── 程式說明.md
 ├── 分割.ipynb
 ├── 合併.ipynb
 ├── 後處理.ipynb
 ├── 模型訓練.ipynb
 ├── 解碼.ipynb
 └── 資料篩選.ipynb
-
 ```
-
-
-
 
 
 ### 開發的架構 
