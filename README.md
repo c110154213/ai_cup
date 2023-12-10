@@ -12,8 +12,9 @@ Description
   <p align="center">
     本專案為介紹競賽處裡
     <br />
-    <a href="https://codalab.lisn.upsaclay.fr/competitions/15425?secret_key=db7687a5-8fc7-4323-a94f-2cca2ac04d39"><strong>探索本專案的文檔 »</strong></a>
+    <a href="https://github.com/c110154213/ai_cup"><strong>探索本專案的文檔 »</strong></a>
     <br />
+    <a href="https://codalab.lisn.upsaclay.fr/competitions/15425?secret_key=db7687a5-8fc7-4323-a94f-2cca2ac04d39"><strong>競賽網址 »</strong></a>
     <br />
 </p>
 
