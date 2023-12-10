@@ -91,9 +91,8 @@ filetree
 
 ### 使用到的框架
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- [無](https://github.com/c110154213/ai_cup)
+
 
 
 ### 版本控制
